@@ -1,0 +1,7 @@
+name: XrayRadius
+version: 1.0
+author: Martin Juras
+main: me.Th3Gr3y8unny.XrayRadius.Main
+
+commands:
+  xrayradius:
